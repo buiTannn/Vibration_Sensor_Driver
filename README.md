@@ -14,6 +14,8 @@ GPIO driver control system with interrupt and timer for audio device (Speaker).
 - GPIO 22: Output (Speaker)
 - GPIO 27: Input (Sensor)
 
+<img width="1010" height="440" alt="Screenshot 2025-07-17 214405" src="https://github.com/user-attachments/assets/ff727040-80f4-4174-b36e-22ef47ff98f2" />
+
 Cross-Compilation Setup
 This project uses cross-compilation to build on Ubuntu and deploy to Raspberry Pi. Cross-compilation allows you to compile source code on a powerful host machine (Ubuntu) to generate executable files for the target device (Raspberry Pi) with different architecture.
 Prerequisites
